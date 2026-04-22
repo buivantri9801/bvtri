@@ -1,3 +1,2 @@
 # Bui Van Tri
-buivantri.com
-bvtri.com
+buivantri.com - bvtri.com
